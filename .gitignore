@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.vscode/
+Active_site*
+table.csv
+table_all.csv
